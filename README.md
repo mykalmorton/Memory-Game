@@ -14,7 +14,7 @@ Match Match is a browser based memory card matching game.
 ## How to Run:
 
 1. Download the Repository.
-2. Open `main.html` file to enter the main menu of the game.
+2. Open `index.html` file to enter the main menu of the game.
 3. https://github.com/mykalmorton/MemoryGame - hosted with ♥ by Github.
 
 
